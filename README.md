@@ -10,9 +10,9 @@
 </p>
 <p align="center">
   <a href="mailto:arpan.dhama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/your-leetcode-profile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://github.com/your-github-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arpandhama/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/arpan_dhama" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/Arpandhama2001/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -97,9 +97,9 @@ HLS-based video streaming platform with multi-resolution support
 
 ## 📫 Connect with Me
 - 📧 Email: [arpan.dhama@gmail.com](mailto:arpan.dhama@gmail.com)
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
-- 🧑‍💻 GitHub: [your-github-username](https://github.com/your-github-username)
-- 🔢 LeetCode: [your-leetcode-profile](https://leetcode.com/your-leetcode-profile)
+- 💼 LinkedIn: [linkedin.com/in/arpandhama/](https://www.linkedin.com/in/arpandhama/)
+- 🧑‍💻 GitHub: [github.com/Arpandhama2001/](https://github.com/Arpandhama2001/)
+- 🔢 LeetCode: [leetcode.com/arpan_dhama](https://leetcode.com/arpan_dhama)
 - 📍 Location: Ghaziabad, Uttar Pradesh
 - 📱 Phone: +91-9540840714
 
