@@ -17,15 +17,6 @@
 
 ---
 
-## 🧠 About Me
-- 🚀 Expert in **backend development** with focus on **scalable architectures**
-- 💡 Skilled in **microservices**, **message queuing**, and **real-time systems**
-- 🌱 Passionate about **distributed systems** and **performance optimization**
-- 💬 Ask me about **Node.js**, **WebSockets**, **Redis**, **Kafka**, or **Docker**
-- 📚 Strong foundation in **DSA, System Design, Database Management, and Computer Networks**
-
----
-
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -47,43 +38,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔥 [Scalable Realtime Chat App](https://github.com/your-username/chat-app)
-High-performance chat system supporting 1000+ concurrent users with <100ms latency
-- **Tech Stack**: Node.js, Express.js, Socket.IO, MongoDB, Redis, Kafka
-- **Features**: WebSocket communication, horizontal scaling, message persistence
-- **Architecture**: Microservices with Redis Pub/Sub and Kafka message pipeline
-
-### 🛩️ [Flight Booking System](https://github.com/your-username/flight-booking)
-Microservices-based flight booking platform with zero data inconsistency
-- **Tech Stack**: Node.js, Express.js, MySQL, Sequelize, RabbitMQ
-- **Services**: Flight Management, Booking, API Gateway, Notification
-- **Features**: Atomic transactions, load balancing, async notifications (50+ emails/min)
-
-### 🎥 [Adaptive Video Streaming App](https://github.com/your-username/video-streaming)
-HLS-based video streaming platform with multi-resolution support
-- **Tech Stack**: Node.js, Express.js, TypeScript, FFmpeg, HLS
-- **Features**: Video transcoding, adaptive bitrate streaming, multiple resolutions
-- **Performance**: Dynamic playlist generation and seamless HTML5 playback
-
----
-
-## 🎓 Education
-- **Master of Computer Applications** - NIT Raipur (2023-2026) | CGPA: 9.31
-- **Bachelor of Science (Hons.) Computer Science** - Delhi University (2019-2022) | CGPA: 8.541
-- **Class XII** - 95% (2019)
-
----
-
-## 🏆 Achievements
-- 🧠 **1800+ rating** on LeetCode (Top 8% globally)
-- 🥇 **AIR 570** in NIMCET (National entrance exam)
-- 🏅 **Expert-level** JavaScript proficiency
-- 📊 Built systems handling **10K+ messages/day** with fault tolerance
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="arpan stats" height="160"/>
@@ -99,12 +53,4 @@ HLS-based video streaming platform with multi-resolution support
 - 📧 Email: [arpan.dhama@gmail.com](mailto:arpan.dhama@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/arpandhama/](https://www.linkedin.com/in/arpandhama/)
 - 🧑‍💻 GitHub: [github.com/Arpandhama2001/](https://github.com/Arpandhama2001/)
-- 🔢 LeetCode: [leetcode.com/arpan_dhama](https://leetcode.com/arpan_dhama)
-- 📍 Location: Ghaziabad, Uttar Pradesh
-- 📱 Phone: +91-9540840714
 
----
-
-<div align="center">
-  <i>⚡ "Building scalable systems that power the future of web applications" ⚡</i>
-</div>
