@@ -4,7 +4,6 @@
 </div>
 <h3 align="center">Backend-focused Full Stack Developer | Node.js Expert</h3>
 <p align="center">
-  🎓 Pursuing Master's in Computer Applications at <strong>NIT Raipur</strong> (CGPA: 9.31)<br/>
   💻 Specialized in building <strong>scalable backend systems</strong> and <strong>microservices architecture</strong><br/>
   🌟 Experienced in real-time applications, message queuing, and distributed systems
 </p>
